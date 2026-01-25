@@ -1,7 +1,7 @@
 # Maintainer: Jeremy <jeremy@local>
 
 pkgname=mmdr-bin
-pkgver=0.1.0
+pkgver=0.1.1
 pkgrel=1
 pkgdesc="Fast Mermaid renderer in Rust (flowchart/class/state/sequence)"
 arch=('x86_64')
@@ -13,7 +13,7 @@ source=(
   "LICENSE::https://raw.githubusercontent.com/1jehuang/mermaid-rs-renderer/v${pkgver}/LICENSE"
 )
 sha256sums=(
-  'efcf55baaddf80af8242e92807388acd0c828ebdd5f572487741e0a8b0793e61'
+  '00a3bcad49a4c4a423046787e4ca9465c2bb4bd88e6b18a73601cc5b0197c7a5'
   '57ed7943c34463678a150769d4a4f6c95d2a190fe2c1977f74bc883492c94b86'
 )
 
